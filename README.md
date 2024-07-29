@@ -1,1 +1,1 @@
-# Machine-Learning-SD-TSIA210
+# Machine Learning Theory SD-TSIA210
